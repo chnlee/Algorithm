@@ -1,3 +1,4 @@
+#삼성전자 SW 역량테스트
 n = int(input())
 gamepan = [[0] * (n+1) for i in range(n+1)]
 # 회전하는 정보
