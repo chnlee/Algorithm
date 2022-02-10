@@ -1,5 +1,5 @@
 # data 라는 리스트를 만들고, 바이러스 값, 시간, 위치 값을 넣는 것이 핵심이다.
-
+# bfs를 이용해서 접근가능한 문제(너비 우선 탐색으로 풀 수 있음)
 
 from collections import deque
 
