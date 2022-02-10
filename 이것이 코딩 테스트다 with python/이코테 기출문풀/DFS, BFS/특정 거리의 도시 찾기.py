@@ -1,4 +1,5 @@
 # visited 대신 distance를 썼으면 훨씬 효율적으로 접근이 가능했던 문제.
+# 내 풀이
 # from collections import deque
 
 # N, M, K, X = map(int,input().split())
@@ -31,6 +32,7 @@
 # print(-1)
 
 # 그래프에서 모든 간선의 비용이 동일할 땐 너비 우선 탐색을 이용해서 찾을 수 있다. 
+# 답 
 from collections import deque
 
 N, M, K, X = map(int,input().split())
