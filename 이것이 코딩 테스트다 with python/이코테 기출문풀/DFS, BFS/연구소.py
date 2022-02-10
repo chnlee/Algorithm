@@ -1,3 +1,5 @@
+# virus 함수, get_score()함수, dfs 함수 모두 만들어야함
+# 특히 count를 기준으로 하는 dfs 함수 작성 방법이 매우 
 n, m = map(int,input().split())
 result = 0
 temp = [[0] * m for i in range(n)]
