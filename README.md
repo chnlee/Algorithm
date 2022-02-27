@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm 풀이를 기록합니다
+Algorithm 풀이를 기록합니다.
